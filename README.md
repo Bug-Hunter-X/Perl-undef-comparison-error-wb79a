@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating a common error when dealing with undefined variables.  The script incorrectly compares an undefined variable using 'eq' which leads to unexpected results.  A solution is provided to demonstrate proper handling of undefined values.
